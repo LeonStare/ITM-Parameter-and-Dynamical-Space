@@ -1,0 +1,8 @@
+Python and the Streamlit package are required to run the code.
+If you have Python installed, type the following into the command line:
+
+pip install streamlit
+
+Then download app.py and run the following in the command line:
+
+run streamlit app.py
